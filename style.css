@@ -1,0 +1,33 @@
+body{
+    background-color:lightgoldenrodyellow;
+    display: flexbox;
+    flex-direction: row;
+    text-align: center;
+}
+h1{
+    color: green;
+    font-size: 5em;
+    text-align: center;
+    bottom: 95%;
+}
+
+div{
+    background-color: rgba(168, 81, 30, 0.76);
+    border-radius: 2px;
+    border-style: solid;
+    border-color: black;
+    height: 13em;
+    width: 10em;
+    font-size: 16;
+    margin-top: 2em;
+
+}
+p{
+    color: black;
+}
+#delete_button{
+    color: red;
+    font-size: 5em;
+    background-color: red;
+
+}
