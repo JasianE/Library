@@ -1,2 +1,4 @@
 # Library
-Library project from TOP
+Library project from TOP.
+
+Uses OOP.
