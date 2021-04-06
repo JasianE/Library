@@ -1,3 +1,5 @@
+'use strict'
+
 //Create array to store book object
 let myLibrary = []
 
